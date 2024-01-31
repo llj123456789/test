@@ -13,7 +13,6 @@ int main()
     cout<<"                "<<"也可以 git checkout 转换分支"<<endl<<"        git checkout -b 创建并转换分支"<<endl;
     cout<<"git merge 将其他分支合并到当前分支"<<endl;
     cout<<"git log 查看更改日志"<<endl;
-    
 
     cout<<"git clone 链接 下载"<<endl;
 
